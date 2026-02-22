@@ -2,7 +2,7 @@
 # `linux-notes.md`
 
 ````markdown
-# 🐧 Linux Command Notes
+#  Linux Command Notes
 
 This document contains basic Linux commands I learned and practiced during my cybersecurity foundation phase.
 
@@ -131,7 +131,7 @@ find /home -name file.txt
 
 ---
 
-## 🔄 4. Pipes
+##  4. Pipes
 
 Pipe ( | ) passes output of one command into another.
 
@@ -145,7 +145,7 @@ This displays only lines containing "name".
 
 ---
 
-## 🔐 5. Permissions
+##  5. Permissions
 
 ### chmod
 
@@ -177,7 +177,7 @@ chown user:user file.txt
 
 ---
 
-## 👤 6. Users & Processes
+##  6. Users & Processes
 
 ### whoami
 
@@ -213,7 +213,7 @@ top
 
 ---
 
-## 🌐 7. Networking Basics
+##  7. Networking Basics
 
 ### ifconfig
 
@@ -241,7 +241,7 @@ netstat -tulnp
 
 ---
 
-## 📦 8. Package Management (Debian/Ubuntu)
+##  8. Package Management (Debian/Ubuntu)
 
 ### Update packages
 
@@ -257,7 +257,7 @@ sudo apt install nmap
 
 ---
 
-## 🌍 9. Downloading Files
+##  9. Downloading Files
 
 ### wget
 
@@ -269,7 +269,7 @@ wget File name
 
 ---
 
-## 🎯 Why Linux is Important in Cybersecurity
+##  Why Linux is Important in Cybersecurity
 
 Most servers, cloud systems, and security tools run on Linux. Understanding file systems, permissions, processes, and networking is essential for penetration testing and defensive security roles.
 
